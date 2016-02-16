@@ -1,0 +1,42 @@
+.text-white{
+    color:white;
+}
+.text-right {
+	text-align: right;
+}
+.text-left {
+	text-align: left;
+}
+.lh{
+	line-height: 1.5;
+}
+.text-white{
+ color: white;
+}
+.plomo{
+	color:#77757C;
+}
+.ref a{
+	text-decoration: none;
+}
+nav ul{
+	font-family: 'Open Sans', sans-serif;
+	margin-top:10px;
+	list-style-type: none;
+	font-size: 0.8rem;
+	font-weight: bold;
+}
+header nav li{
+	position: relative;
+	float: left;
+	left:30%;
+	color: #BEBEBE;
+}
+nav li:hover a{
+	color:#962951;
+}
+header nav a{
+	padding:2% 20%;
+	color: #BEBEBE;
+	text-decoration: none;
+}
